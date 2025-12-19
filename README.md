@@ -1,11 +1,11 @@
-# 👋 Olá, eu sou Wellington Evarista
+# 👋 Olá, eu sou Wellington Silva, apaixonado por Automação e Agentes de IA!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/wellington-silva-096ab8344)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wellington.autodev96@gmail.com)
 
 ## 👨‍💻 Sobre mim
 
-Sou **Gestor de Automação de Processos Empresariais e Agentes de IA**, atuando na criação de soluções que otimizam atendimento, vendas e processos internos através de automações inteligentes.
+Sou **Gestor de Automação de Processos Empresariais e Agentes de IA** a 3 anos, atuando na criação de soluções que otimizam atendimento, vendas e processos internos através de automações inteligentes.
 
 Trabalho com ferramentas **no-code e low-code**, conectando sistemas, APIs e fluxos de negócio para gerar eficiência real para empresas.  
 Atualmente estou em **transição para o desenvolvimento Full Stack**, estudando **HTML, CSS e JavaScript**, com foco em construir aplicações modernas e bem estruturadas.
@@ -54,4 +54,4 @@ Fique à vontade para se conectar comigo pelo LinkedIn ou entrar em contato por 
 
 ## 🚀 GitHub Stats
 
-![Wellington Evarista GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wellington-auto-dev&show_icons=true&theme=dracula)
+![Wellington Silva GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wellington-auto-dev&show_icons=true&theme=dracula)
